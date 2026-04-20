@@ -8,21 +8,7 @@
 
 **YouTube Scraper** is a professional data extraction pipeline designed for large-scale YouTube channel analysis. It implements quota-efficient playlist traversal and supports multi-engine storage across MongoDB, PostgreSQL, and local JSON.
 
-## 🎬 Showcase Gallery
-| 🚀 Scraper Interface | 📊 Storage Hub |
-| :---: | :---: |
-| ![Scraper](https://raw.githubusercontent.com/ayushxx7/youtube_scraper/main/showcase/scraper_ui.png) | ![Storage](https://raw.githubusercontent.com/ayushxx7/youtube_scraper/main/showcase/storage.png) |
-
-## 📊 Repo Health: 90 / 100 (High Readiness)
-This project is production-ready for large-scale data harvesting.
-
-| Category | Item | Status | Score |
-| :--- | :--- | :--- | :--- |
-| **Documentation** | README & LICENSE | ✅ Created | 15 / 15 |
-| **Security** | API Key Management | ✅ Secure | 15 / 15 |
-| **Automation** | Multi-DB Storage Logic | ✅ Working | 20 / 20 |
-| **Showcase** | High-res Assets | ⚠️ Pending | 10 / 20 |
-| **Distribution** | CLI & Streamlit Support | ✅ Active | 30 / 30 |
+`✅ Infinite Data Pipeline | ✅ Multi-Engine Storage | ✅ MIT Licensed | ✅ Quota-Efficient`
 
 ## 🏗 Architecture
 The scraper uses a provider-pattern architecture for storage and a generator-based pipeline for efficient API traversal.
